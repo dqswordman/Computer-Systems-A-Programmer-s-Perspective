@@ -7,5 +7,7 @@ https://csapp.cs.cmu.edu/
 
 15/9/24 完成Chapter2.1
 
+16/9/24 完成Chapter2.2
+
 
 

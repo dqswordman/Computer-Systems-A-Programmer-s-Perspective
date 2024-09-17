@@ -9,5 +9,7 @@ https://csapp.cs.cmu.edu/
 
 16/9/24 完成Chapter2.2
 
+17/9/24 更正了Chapter2.2 中 Problem2.23 对于fun1 fun2判断错误的问题
+
 
 

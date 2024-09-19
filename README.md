@@ -15,5 +15,6 @@ https://csapp.cs.cmu.edu/
 
 19/9/24 更正了Chapter2.3 中2.30问题的回答，2.3.6笔记
 
+19/9/24 完成Chapter 2.4 Floating Point 浮点数
 
 

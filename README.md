@@ -13,5 +13,7 @@ https://csapp.cs.cmu.edu/
 
 18/9/24 完成Chapter2.3 Integer Arithmetic整形算术
 
+19/9/24 更正了Chapter2.3 中2.30问题的回答，2.3.6笔记
+
 
 

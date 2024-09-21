@@ -17,4 +17,4 @@ https://csapp.cs.cmu.edu/
 
 19/9/24 完成Chapter 2.4 Floating Point 浮点数 
 
-20/9/24 完成Chapter 2.4-2.5 Floating Point & Summary 浮点数 & 总结      更正了Chapter 2.4 浮点数中大量问题的回答，新增部分拗口内容的解释
+21/9/24 完成Chapter 2.4-2.5 Floating Point & Summary 浮点数 & 总结      更正了Chapter 2.4 浮点数中大量问题的回答，新增部分拗口内容的解释

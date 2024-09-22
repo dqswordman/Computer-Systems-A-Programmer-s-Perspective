@@ -7,16 +7,10 @@ https://csapp.cs.cmu.edu/
 
 15/9/24 完成Chapter2.1 Information Storage 信息存储
 
-16/9/24 完成Chapter2.2 Integer Representations 整形表示
+16/9/24 完成Chapter2.2 Integer Representations 整形表示        17/9/24 更正了 Problem2.23 对于fun1 fun2判断错误的问题
 
-17/9/24 更正了Chapter2.2 中 Problem2.23 对于fun1 fun2判断错误的问题
+18/9/24 完成Chapter2.3 Integer Arithmetic整形算术        19/9/24 更正了 2.30问题的回答，2.3.6笔记
 
-18/9/24 完成Chapter2.3 Integer Arithmetic整形算术
+20/9/24 完成Chapter 2.4-2.5 Floating Point & Summary 浮点数 & 总        21/9/24更正了大量问题的回答，新增部分拗口内容的解释
 
-19/9/24 更正了Chapter2.3 中2.30问题的回答，2.3.6笔记
-
-19/9/24 完成Chapter 2.4 Floating Point 浮点数 
-
-21/9/24 完成Chapter 2.4-2.5 Floating Point & Summary 浮点数 & 总结      更正了Chapter 2.4 浮点数中大量问题的回答，新增部分拗口内容的解释
-
-21/9/24 完成Chapter 3.1 - 3.3 A Historical Perspective &  Program Encodings & Data Formats 历史视角 & 程序编码 & 数据格式 
+21/9/24 完成Chapter 3.1 - 3.3 A Historical Perspective &  Program Encodings & Data Formats 历史视角 & 程序编码 & 数据格式        22/9/24新增部分细节的解释

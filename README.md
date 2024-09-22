@@ -14,3 +14,5 @@ https://csapp.cs.cmu.edu/
 20/9/24 完成Chapter 2.4-2.5 Floating Point & Summary 浮点数 & 总        21/9/24更正了大量问题的回答，新增部分拗口内容的解释
 
 21/9/24 完成Chapter 3.1 - 3.3 A Historical Perspective &  Program Encodings & Data Formats 历史视角 & 程序编码 & 数据格式        22/9/24新增部分细节的解释
+
+22/9/24 完成Chapter 3.4 Accessing Information 信息的获取

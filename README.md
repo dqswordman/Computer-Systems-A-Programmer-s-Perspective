@@ -16,3 +16,5 @@ https://csapp.cs.cmu.edu/
 21/9/24 完成Chapter 3.1 - 3.3 A Historical Perspective &  Program Encodings & Data Formats 历史视角 & 程序编码 & 数据格式        22/9/24新增部分细节的解释
 
 22/9/24 完成Chapter 3.4 Accessing Information 信息的获取
+
+23/9/24 完成Chapter 3.5 Arithmetic and Logical Operations 算术和逻辑运算

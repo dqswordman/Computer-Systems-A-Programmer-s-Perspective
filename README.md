@@ -18,3 +18,5 @@ https://csapp.cs.cmu.edu/
 22/9/24 完成Chapter 3.4 Accessing Information 信息的获取
 
 23/9/24 完成Chapter 3.5 Arithmetic and Logical Operations 算术和逻辑运算
+
+25/9/24 完成Chapter 3.6 Control 控制

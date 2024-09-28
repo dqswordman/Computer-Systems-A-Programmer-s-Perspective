@@ -21,4 +21,8 @@ https://csapp.cs.cmu.edu/
 
 25/9/24 完成Chapter 3.6 Control 控制
 
+26/9/24 对笔记整体构架进行更新 更全面细致
+
 27/9/24 完成Chapter 3.7 Procedures 过程
+
+28/9/24 完成Chapter 3.8  Array Allocation and Access 数组的分配与访问

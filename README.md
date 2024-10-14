@@ -26,3 +26,5 @@ https://csapp.cs.cmu.edu/
 27/9/24 完成Chapter 3.7 Procedures 过程
 
 28/9/24 完成Chapter 3.8  Array Allocation and Access 数组的分配与访问
+
+14/10/24 完成Chapter 3.9 Heterogeneous Data Structures 异构数据结构
